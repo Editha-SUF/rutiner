@@ -63,27 +63,26 @@ SUF:s landslag är organiserad i följande landslagsgrupper:
 
 ## SM
 
-***EDITHA KOLLA IGENOM OCH KORRIGERA***
-
 Följande SM-aktiviteter kommer att genomföras under 2019:
 
-* Ungdoms-SM i ??
-* Senior-SM i ??
-* SM-veckan i ??
+* Ungdoms-SM inomhus, 30:e-31:a mars 2019 (kontaktperson: Mattias Ahlgren och Lasse Ugarph (Eksjö kommun))
+* Ungdoms-SM utomhus, inget datum bestämt men vanligtvis i september (kontaktperson: SM-gruppen (Joel Stenberg och Editha Ehrmanntraut)
+* Senior-SM inomhus mixed, mest sannolikt 13:e-14:e april 2019 (kontaktperson: SM-gruppen (Joel Stenberg och Editha Ehrmanntraut)
+* Senior-SM utomhus open/women, inget datum bestämt men vanligtvis i september (kontaktperson: SM-gruppen (Joel Stenberg och Editha Ehrmanntraut)
+* SM-veckan i Malmö, 6:e-7:e juni (kontaktperson: Mattias Ahlgren)
 
 Följande SM har SUF behov av hjälp från kansliet med:
+* Planering (endast för SM veckan)
+* Licenskontroll/medlemsskapskontroll
+* Genomförande (endast för SM veckan)
 
-* Planering
-* Markndsföring
-* Genomförande
 
-
-*Budget: XX timmar under året*
+*Budget: 40 timmar under året* (ca. 5 timmar per vanligt SM, 20 timmar för SM veckan)
 
 
 ## Skolaktiviteter
 
-Restarande tid av SUF:s budget ska läggas på att sprida Ultimatesporten. Under 2019 ligger fokus på skolaktiviteter. Arbetet består av 3 områden:
+Restarande tid av SUF:s budget ska läggas på att sprida Ultimatesporten. Under 2019 ligger fokus på skolaktiviteter. Editha ska kontaktas för att planlägga året. Arbetet består av 3 områden:
 
 * Marknadsföra skolaktiviter - ta fram kontaktlistor på idrottslärare och göra utskick för att erbjuda SUF:s tjänster, efter genomförda instruktioner ska informationsmaterial med förslag på upplägg för idrottslektioner med Ultimate
 * Planera skolaktiviteter - kontakta idrottslärare för att boka in skolinstruktioner, planera aktiviterena
@@ -99,9 +98,11 @@ Utbildnignsansvarig inom SUF finns att tillgå för att få input kring upplägg
 Följande personer har rätt att utnyttja kansliets tjänster och kan kontakta kansliet för att få arbetsuppgifter utförda:
 
 * SUF:s styrelsemedlemmar
-* Ansvarig för landslagsgrupp (3 st, se oven)
+* Ansvarig för landslagsgrupp (3 st, se ovan)
 * Klubbar i licensärenden
-* Ansvarig för SM-gruppen
+* Ansvarig för SM-gruppen (Joel Stenberg (KFUM Linköping) och Editha Ehrmanntraut (La Bamba FF))
+* Ansvarig för regelgruppen (Andreas Holmgren (La Bamba FF), Paul Eriksson (Stockholm))
+* Ansvarig för kalendergruppen (Johanna Larsson (KFUM Linköping))
 
 
 # Rapportering
